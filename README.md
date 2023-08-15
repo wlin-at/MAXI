@@ -18,7 +18,8 @@ MiniSSv2: a subset of SSv2, labels and validation splits are provided in `labels
 Specify the training data root directory, train/val file paths and the path of CLIP ViT-B-16 model in `configs/zero_shot/train/k400/maxi.yaml`. Further, specficy the training hyparameters in `train.sh`.  
 In `train.sh`, we specify the train file `datasets_splits/k400_splits/clip_match_result_thresh0.9.txt`, which is the CLIP matching result on K400 with the text bag filtering ratio of 0.9.   
 
-Run `train.sh` for unsupervised finetuning with multiple instance learning using combined text bag of BLIP verbs (data specified via `caption_bag_dir` in `train.sh`) and GPT3 verbs (data specified via `gpt3_bag_dir` in `train.sh`). Due to limitation of size of supplementary, we only provide a small subset of the GPT3 verb bag and BLIP verb bag in the directory of `data`.  
+Run `train.sh` for unsupervised finetuning with multiple instance learning using combined text bag of BLIP verbs (data specified via `caption_bag_dir` in `train.sh`) and GPT3 verbs (data specified via `gpt3_bag_dir` in `train.sh`). Due to limitation of space, we only provide a small subset of the GPT3 verb bag and BLIP verb bag in the directory of `data`. The complete verb bags can be downloaded [here](https://files.icg.tugraz.at/d/3b7204bf164044b3aa27/).  
+
 The model is trained on 4x A6000 GPUs.  
 
 ```
