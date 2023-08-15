@@ -1,0 +1,158 @@
+id,name
+0,holding some clothes
+1,putting clothes somewhere
+2,taking some clothes from somewhere
+3,throwing clothes somewhere
+4,tidying some clothes
+5,washing some clothes
+6,closing a door
+7,fixing a door
+8,opening a door
+9,putting something on a table
+10,sitting on a table
+11,sitting at a table
+12,tidying up a table
+13,washing a table
+14,working at a table
+15,holding a phone/camera
+16,playing with a phone/camera
+17,putting a phone/camera somewhere
+18,taking a phone/camera from somewhere
+19,talking on a phone/camera
+20,holding a bag
+21,opening a bag
+22,putting a bag somewhere
+23,taking a bag from somewhere
+24,throwing a bag somewhere
+25,closing a book
+26,holding a book
+27,opening a book
+28,putting a book somewhere
+29,smiling at a book
+30,taking a book from somewhere
+31,throwing a book somewhere
+32,watching/reading/looking at a book
+33,holding a towel/s
+34,putting a towel/s somewhere
+35,taking a towel/s from somewhere
+36,throwing a towel/s somewhere
+37,tidying up a towel/s
+38,washing something with a towel
+39,closing a box
+40,holding a box
+41,opening a box
+42,putting a box somewhere
+43,taking a box from somewhere
+44,taking something from a box
+45,throwing a box somewhere
+46,closing a laptop
+47,holding a laptop
+48,opening a laptop
+49,putting a laptop somewhere
+50,taking a laptop from somewhere
+51,watching a laptop or something on a laptop
+52,working/playing on a laptop
+53,holding a shoe/shoes
+54,putting shoes somewhere
+55,putting on shoe/shoes
+56,taking shoes from somewhere
+57,taking off some shoes
+58,throwing shoes somewhere
+59,sitting in a chair
+60,standing on a chair
+61,holding some food
+62,putting some food somewhere
+63,taking food from somewhere
+64,throwing food somewhere
+65,eating a sandwich
+66,making a sandwich
+67,holding a sandwich
+68,putting a sandwich somewhere
+69,taking a sandwich from somewhere
+70,holding a blanket
+71,putting a blanket somewhere
+72,snuggling with a blanket
+73,taking a blanket from somewhere
+74,throwing a blanket somewhere
+75,tidying up a blanket/s
+76,holding a pillow
+77,putting a pillow somewhere
+78,snuggling with a pillow
+79,taking a pillow from somewhere
+80,throwing a pillow somewhere
+81,putting something on a shelf
+82,tidying a shelf or something on a shelf
+83,reaching for and grabbing a picture
+84,holding a picture
+85,laughing at a picture
+86,putting a picture somewhere
+87,taking a picture of something
+88,watching/looking at a picture
+89,closing a window
+90,opening a window
+91,washing a window
+92,watching/looking outside of a window
+93,holding a mirror
+94,smiling in a mirror
+95,washing a mirror
+96,watching something/someone/themselves in a mirror
+97,walking through a doorway
+98,holding a broom
+99,putting a broom somewhere
+100,taking a broom from somewhere
+101,throwing a broom somewhere
+102,tidying up with a broom
+103,fixing a light
+104,turning on a light
+105,turning off a light
+106,drinking from a cup/glass/bottle
+107,holding a cup/glass/bottle of something
+108,pouring something into a cup/glass/bottle
+109,putting a cup/glass/bottle somewhere
+110,taking a cup/glass/bottle from somewhere
+111,washing a cup/glass/bottle
+112,closing a closet/cabinet
+113,opening a closet/cabinet
+114,tidying up a closet/cabinet
+115,someone is holding a paper/notebook
+116,putting their paper/notebook somewhere
+117,taking paper/notebook from somewhere
+118,holding a dish
+119,putting a dish/es somewhere
+120,taking a dish/es from somewhere
+121,wash a dish/dishes
+122,lying on a sofa/couch
+123,sitting on sofa/couch
+124,lying on the floor
+125,sitting on the floor
+126,throwing something on the floor
+127,tidying something on the floor
+128,holding some medicine
+129,taking/consuming some medicine
+130,putting groceries somewhere
+131,laughing at television
+132,watching television
+133,someone is awakening in bed
+134,lying on a bed
+135,sitting in a bed
+136,fixing a vacuum
+137,holding a vacuum
+138,taking a vacuum from somewhere
+139,washing their hands
+140,fixing a doorknob
+141,grasping onto a doorknob
+142,closing a refrigerator
+143,opening a refrigerator
+144,fixing their hair
+145,working on paper/notebook
+146,someone is awakening somewhere
+147,someone is cooking something
+148,someone is dressing
+149,someone is laughing
+150,someone is running somewhere
+151,someone is going from standing to sitting
+152,someone is smiling
+153,someone is sneezing
+154,someone is standing up from somewhere
+155,someone is undressing
+156,someone is eating something
