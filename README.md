@@ -1,7 +1,7 @@
 # MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge (ICCV 2023)
-[ProjectPage](https://wlin-at.github.io/maxi)  
-Official implementation of MAXI [[`arXiv`](https://arxiv.org/abs/2303.08914)]  
-Author [HomePage](https://wlin-at.github.io/)  
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://wlin-at.github.io/maxi)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.08914)
+[![author](https://img.shields.io/badge/Author-Profile-f39f37?color=f39f37)](https://wlin-at.github.io/)
 
 ## Installation 
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](docs/INSTALL.md). 
