@@ -41,7 +41,7 @@ bash eval.sh
 ```
 At the end of `eval.sh`, `utils/eval_summary.py` is called to summarize the results across different splits of the seven downstream datasets.   
 
-## Citation
+# Citation
 Thanks for citing our paper:
 ```bibtex
 @inproceedings{lin2023match,
