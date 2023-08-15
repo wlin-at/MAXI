@@ -1,0 +1,6 @@
+suspending
+stand
+standing
+suspend
+walking
+walk

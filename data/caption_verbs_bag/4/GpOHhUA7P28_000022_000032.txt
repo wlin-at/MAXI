@@ -1,0 +1,8 @@
+point
+covering
+touch
+pointing
+hold
+touching
+holding
+cover

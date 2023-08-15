@@ -1,0 +1,12 @@
+eat
+stand
+sit
+make
+sitting
+hold
+holding
+eating
+standing
+making
+wear
+wearing

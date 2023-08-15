@@ -1,0 +1,6 @@
+stand
+hold
+holding
+saying
+standing
+say

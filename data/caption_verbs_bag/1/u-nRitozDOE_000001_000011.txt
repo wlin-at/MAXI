@@ -1,0 +1,10 @@
+take
+playing
+stand
+sit
+sitting
+hold
+play
+holding
+taking
+standing

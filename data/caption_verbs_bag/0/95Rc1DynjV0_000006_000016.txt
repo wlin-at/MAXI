@@ -1,0 +1,10 @@
+perch
+climbing
+stand
+climb
+hold
+perching
+holding
+travelling
+travel
+standing

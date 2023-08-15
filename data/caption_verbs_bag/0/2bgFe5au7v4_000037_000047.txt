@@ -1,0 +1,4 @@
+falling
+stand
+fall
+standing

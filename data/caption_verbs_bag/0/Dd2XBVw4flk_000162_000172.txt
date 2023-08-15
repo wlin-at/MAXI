@@ -1,0 +1,10 @@
+riding
+stand
+running
+sit
+sitting
+run
+driving
+standing
+ride
+drive

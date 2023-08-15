@@ -1,0 +1,14 @@
+kneel
+playing
+stand
+looking
+look
+play
+lay
+laying
+kneeling
+bending
+standing
+bend
+walking
+walk

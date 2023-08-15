@@ -1,0 +1,4 @@
+stand
+sit
+sitting
+standing

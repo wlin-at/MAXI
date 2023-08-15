@@ -1,0 +1,6 @@
+playing
+stand
+preparing
+play
+standing
+prepare

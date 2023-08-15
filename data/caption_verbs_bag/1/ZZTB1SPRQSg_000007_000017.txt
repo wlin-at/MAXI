@@ -1,0 +1,8 @@
+playing
+stand
+play
+talk
+hold
+holding
+standing
+talking

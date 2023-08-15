@@ -1,0 +1,10 @@
+fly
+flying
+stand
+attaching
+hanging
+hold
+attach
+holding
+hang
+standing

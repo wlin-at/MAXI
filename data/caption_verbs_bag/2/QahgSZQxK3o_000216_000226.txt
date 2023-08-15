@@ -1,0 +1,4 @@
+stand
+cut
+cutting
+standing

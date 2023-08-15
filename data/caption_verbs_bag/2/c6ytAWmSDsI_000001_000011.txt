@@ -1,0 +1,8 @@
+stand
+sit
+make
+sitting
+hold
+holding
+standing
+making

@@ -1,0 +1,10 @@
+posing
+touch
+hold
+touching
+holding
+shaving
+pose
+shave
+closing
+close

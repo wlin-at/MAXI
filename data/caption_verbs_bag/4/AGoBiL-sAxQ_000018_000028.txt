@@ -1,0 +1,6 @@
+touch
+talk
+hold
+touching
+holding
+talking

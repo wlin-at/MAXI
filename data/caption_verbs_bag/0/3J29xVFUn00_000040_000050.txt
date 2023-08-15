@@ -1,0 +1,4 @@
+walk
+walking
+riding
+ride

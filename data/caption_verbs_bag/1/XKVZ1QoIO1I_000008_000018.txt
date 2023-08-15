@@ -1,0 +1,8 @@
+stand
+dance
+talk
+hold
+holding
+standing
+talking
+dancing

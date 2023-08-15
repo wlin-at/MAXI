@@ -1,0 +1,8 @@
+take
+use
+stepping
+step
+wipe
+taking
+wiping
+using

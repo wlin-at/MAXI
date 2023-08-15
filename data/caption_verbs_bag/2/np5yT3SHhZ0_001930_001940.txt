@@ -1,0 +1,8 @@
+speaking
+stand
+sit
+speak
+hold
+sitting
+holding
+standing

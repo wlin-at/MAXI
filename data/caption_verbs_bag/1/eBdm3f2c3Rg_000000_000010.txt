@@ -1,0 +1,8 @@
+drumming
+stand
+sit
+drum
+hold
+sitting
+holding
+standing

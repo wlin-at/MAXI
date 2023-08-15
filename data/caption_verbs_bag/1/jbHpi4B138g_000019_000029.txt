@@ -1,0 +1,8 @@
+sit
+sitting
+hold
+lay
+holding
+laying
+laugh
+laughing

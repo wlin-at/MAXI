@@ -1,0 +1,8 @@
+playing
+stand
+sit
+play
+sitting
+brushing
+standing
+brush

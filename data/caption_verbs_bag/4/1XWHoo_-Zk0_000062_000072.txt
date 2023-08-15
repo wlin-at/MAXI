@@ -1,0 +1,8 @@
+touch
+looking
+look
+hold
+touching
+holding
+brushing
+brush

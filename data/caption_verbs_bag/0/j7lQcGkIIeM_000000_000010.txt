@@ -1,0 +1,6 @@
+climbing
+riding
+running
+climb
+run
+ride

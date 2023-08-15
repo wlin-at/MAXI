@@ -1,0 +1,6 @@
+stand
+sit
+giving
+sitting
+give
+standing

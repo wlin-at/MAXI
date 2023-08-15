@@ -1,0 +1,6 @@
+playing
+stand
+make
+play
+standing
+making

@@ -1,0 +1,6 @@
+fly
+flying
+stand
+hold
+holding
+standing

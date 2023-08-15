@@ -1,0 +1,8 @@
+help
+helping
+climbing
+riding
+stand
+climb
+ride
+standing

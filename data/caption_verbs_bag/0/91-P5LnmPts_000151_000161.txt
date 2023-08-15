@@ -1,0 +1,6 @@
+grazing
+fly
+flying
+stand
+standing
+graze

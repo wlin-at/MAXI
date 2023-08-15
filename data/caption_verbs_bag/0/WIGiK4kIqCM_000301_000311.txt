@@ -1,0 +1,10 @@
+carrying
+carry
+climbing
+riding
+climb
+hiking
+hike
+ride
+walking
+walk

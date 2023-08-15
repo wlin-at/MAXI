@@ -1,0 +1,10 @@
+toileting
+stand
+do
+hold
+lay
+holding
+laying
+toilet
+standing
+doing

@@ -1,0 +1,8 @@
+marching
+walk
+playing
+stand
+play
+standing
+walking
+march

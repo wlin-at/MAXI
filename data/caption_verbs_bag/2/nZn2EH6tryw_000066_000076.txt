@@ -1,0 +1,8 @@
+stand
+bravo
+talk
+hold
+holding
+bravoing
+standing
+talking

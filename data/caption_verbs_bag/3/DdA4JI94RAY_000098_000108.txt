@@ -1,0 +1,6 @@
+playing
+stand
+watch
+play
+standing
+watching

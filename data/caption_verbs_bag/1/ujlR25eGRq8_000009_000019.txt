@@ -1,0 +1,8 @@
+jump
+playing
+sit
+play
+hold
+sitting
+holding
+jumping

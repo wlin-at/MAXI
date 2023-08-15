@@ -1,0 +1,10 @@
+carrying
+covering
+carry
+riding
+stand
+cover
+ride
+standing
+walking
+walk

@@ -1,0 +1,8 @@
+riding
+stand
+hold
+holding
+lighting
+ride
+standing
+light

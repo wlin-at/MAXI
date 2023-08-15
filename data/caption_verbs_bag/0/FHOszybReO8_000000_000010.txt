@@ -1,0 +1,6 @@
+perch
+stand
+sit
+sitting
+perching
+standing

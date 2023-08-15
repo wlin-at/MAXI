@@ -1,0 +1,8 @@
+playing
+stand
+sit
+play
+lay
+sitting
+laying
+standing

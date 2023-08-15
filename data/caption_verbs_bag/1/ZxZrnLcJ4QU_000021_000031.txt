@@ -1,0 +1,10 @@
+playing
+stand
+sit
+dance
+play
+sitting
+talk
+standing
+talking
+dancing

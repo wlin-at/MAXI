@@ -1,0 +1,8 @@
+tie
+stand
+sit
+waving
+tying
+sitting
+wave
+standing

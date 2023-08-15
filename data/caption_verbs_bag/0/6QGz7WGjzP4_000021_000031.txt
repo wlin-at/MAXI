@@ -1,0 +1,6 @@
+falling
+stand
+standing
+walking
+fall
+walk

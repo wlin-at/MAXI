@@ -1,0 +1,8 @@
+crawling
+playing
+stand
+sit
+sitting
+play
+crawl
+standing

@@ -1,0 +1,8 @@
+stand
+sit
+sitting
+hold
+preparing
+holding
+standing
+prepare

@@ -1,0 +1,8 @@
+stand
+sit
+sitting
+answer
+saying
+standing
+say
+answering

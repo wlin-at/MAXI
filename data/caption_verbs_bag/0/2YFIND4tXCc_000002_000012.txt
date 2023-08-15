@@ -1,0 +1,4 @@
+stand
+cover
+covering
+standing

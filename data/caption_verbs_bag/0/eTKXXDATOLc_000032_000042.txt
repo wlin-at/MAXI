@@ -1,0 +1,10 @@
+fly
+riding
+flying
+stand
+hanging
+do
+hang
+ride
+standing
+doing

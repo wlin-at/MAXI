@@ -1,0 +1,8 @@
+covering
+stand
+sit
+sitting
+hold
+holding
+cover
+standing

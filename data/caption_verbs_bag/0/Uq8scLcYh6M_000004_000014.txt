@@ -1,0 +1,12 @@
+perch
+fly
+flying
+stand
+sit
+hanging
+sitting
+hang
+perching
+working
+standing
+work

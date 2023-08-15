@@ -1,0 +1,8 @@
+jump
+fly
+flying
+falling
+riding
+ride
+jumping
+fall

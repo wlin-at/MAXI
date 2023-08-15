@@ -1,0 +1,6 @@
+pull
+riding
+pulling
+stand
+ride
+standing

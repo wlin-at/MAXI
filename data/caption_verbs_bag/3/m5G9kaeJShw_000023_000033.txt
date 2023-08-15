@@ -1,0 +1,4 @@
+clapping
+stand
+clap
+standing

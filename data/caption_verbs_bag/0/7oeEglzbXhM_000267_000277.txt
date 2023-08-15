@@ -1,0 +1,10 @@
+riding
+fly
+flying
+stand
+climbing
+climb
+ride
+standing
+wear
+wearing

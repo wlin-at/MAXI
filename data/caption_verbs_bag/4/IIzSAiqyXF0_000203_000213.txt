@@ -1,0 +1,8 @@
+stand
+make
+hold
+holding
+standing
+making
+wear
+wearing

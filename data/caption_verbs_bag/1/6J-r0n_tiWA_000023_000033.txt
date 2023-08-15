@@ -1,0 +1,6 @@
+playing
+stand
+play
+lighting
+standing
+light

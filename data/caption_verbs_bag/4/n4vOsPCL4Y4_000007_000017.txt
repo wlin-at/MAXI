@@ -1,0 +1,6 @@
+stand
+shaving
+brushing
+standing
+brush
+shave

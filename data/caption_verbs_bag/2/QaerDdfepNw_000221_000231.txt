@@ -1,0 +1,8 @@
+take
+stand
+hold
+lay
+holding
+laying
+taking
+standing

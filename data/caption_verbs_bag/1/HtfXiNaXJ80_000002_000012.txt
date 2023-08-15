@@ -1,0 +1,8 @@
+tie
+tying
+stand
+fueling
+sit
+sitting
+fuel
+standing

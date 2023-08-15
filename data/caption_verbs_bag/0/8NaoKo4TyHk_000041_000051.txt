@@ -1,0 +1,4 @@
+stand
+pull
+pulling
+standing

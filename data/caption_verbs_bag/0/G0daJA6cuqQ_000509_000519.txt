@@ -1,0 +1,6 @@
+stand
+sit
+running
+sitting
+run
+standing

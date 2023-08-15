@@ -1,0 +1,4 @@
+hang
+jump
+hanging
+jumping

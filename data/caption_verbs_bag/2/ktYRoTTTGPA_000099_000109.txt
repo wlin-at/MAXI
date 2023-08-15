@@ -1,0 +1,8 @@
+tie
+stand
+tying
+talk
+hold
+holding
+standing
+talking

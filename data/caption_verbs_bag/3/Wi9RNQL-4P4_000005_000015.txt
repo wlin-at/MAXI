@@ -1,0 +1,10 @@
+playing
+stand
+kicking
+play
+hold
+kick
+holding
+clap
+standing
+clapping

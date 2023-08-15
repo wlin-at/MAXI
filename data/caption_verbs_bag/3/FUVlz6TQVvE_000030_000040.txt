@@ -1,0 +1,10 @@
+take
+playing
+stand
+watch
+play
+taking
+standing
+wear
+watching
+wearing

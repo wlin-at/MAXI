@@ -1,0 +1,6 @@
+drink
+stand
+hold
+holding
+drinking
+standing

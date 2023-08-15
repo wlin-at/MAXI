@@ -1,0 +1,8 @@
+playing
+stand
+sit
+play
+sitting
+standing
+wear
+wearing

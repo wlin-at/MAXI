@@ -1,0 +1,6 @@
+covering
+touch
+hold
+touching
+holding
+cover

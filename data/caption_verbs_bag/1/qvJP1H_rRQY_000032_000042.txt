@@ -1,0 +1,14 @@
+playing
+stand
+sit
+looking
+play
+hold
+sitting
+holding
+talk
+look
+driving
+standing
+talking
+drive

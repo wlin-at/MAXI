@@ -1,0 +1,6 @@
+parking
+stand
+park
+standing
+walking
+walk

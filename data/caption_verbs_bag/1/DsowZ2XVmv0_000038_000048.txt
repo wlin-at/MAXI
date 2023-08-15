@@ -1,0 +1,8 @@
+brush
+sit
+do
+sitting
+hold
+holding
+brushing
+doing

@@ -1,0 +1,10 @@
+stand
+sit
+watch
+sitting
+hold
+clap
+holding
+standing
+clapping
+watching

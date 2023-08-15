@@ -1,0 +1,6 @@
+stand
+giving
+talk
+give
+standing
+talking

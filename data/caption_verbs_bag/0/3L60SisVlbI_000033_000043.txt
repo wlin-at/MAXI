@@ -1,0 +1,6 @@
+climbing
+playing
+stand
+climb
+play
+standing

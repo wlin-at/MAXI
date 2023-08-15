@@ -1,0 +1,12 @@
+perch
+climbing
+use
+stand
+sit
+climb
+sitting
+hold
+perching
+holding
+using
+standing

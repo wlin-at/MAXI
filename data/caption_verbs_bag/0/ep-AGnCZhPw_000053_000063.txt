@@ -1,0 +1,6 @@
+jump
+riding
+stand
+ride
+jumping
+standing

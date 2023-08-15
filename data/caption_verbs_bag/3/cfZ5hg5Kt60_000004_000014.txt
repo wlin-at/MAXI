@@ -1,0 +1,6 @@
+stand
+watch
+standing
+wear
+watching
+wearing

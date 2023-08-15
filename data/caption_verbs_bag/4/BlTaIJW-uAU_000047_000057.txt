@@ -1,0 +1,6 @@
+stand
+hold
+wipe
+holding
+standing
+wiping

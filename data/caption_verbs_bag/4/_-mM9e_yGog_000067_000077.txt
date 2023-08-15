@@ -1,0 +1,8 @@
+sleep
+sleeping
+lay
+hold
+holding
+brushing
+laying
+brush

@@ -1,0 +1,6 @@
+walk
+stand
+watch
+standing
+walking
+watching

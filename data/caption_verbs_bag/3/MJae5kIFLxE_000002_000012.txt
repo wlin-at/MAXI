@@ -1,0 +1,12 @@
+riding
+tie
+stand
+tying
+dance
+hold
+holding
+ride
+standing
+dancing
+walking
+walk

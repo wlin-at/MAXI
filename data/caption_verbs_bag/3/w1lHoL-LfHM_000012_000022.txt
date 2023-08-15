@@ -1,0 +1,4 @@
+holding
+stand
+hold
+standing

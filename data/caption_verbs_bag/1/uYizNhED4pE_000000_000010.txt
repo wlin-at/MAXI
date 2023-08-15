@@ -1,0 +1,8 @@
+playing
+stand
+looking
+look
+hold
+play
+holding
+standing

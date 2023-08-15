@@ -1,0 +1,8 @@
+climbing
+stand
+climb
+hold
+holding
+standing
+wear
+wearing

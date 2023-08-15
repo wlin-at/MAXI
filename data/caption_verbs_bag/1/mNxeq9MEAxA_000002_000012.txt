@@ -1,0 +1,8 @@
+sleep
+sit
+sleeping
+sitting
+hold
+talk
+holding
+talking

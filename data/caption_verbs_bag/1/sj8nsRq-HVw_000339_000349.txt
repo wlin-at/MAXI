@@ -1,0 +1,6 @@
+leaning
+stand
+sit
+sitting
+lean
+standing

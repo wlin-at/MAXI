@@ -1,0 +1,8 @@
+riding
+stand
+driving
+standing
+ride
+walking
+walk
+drive

@@ -1,0 +1,6 @@
+stand
+hanging
+hold
+hang
+holding
+standing

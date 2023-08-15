@@ -1,0 +1,12 @@
+take
+playing
+stand
+play
+hold
+holding
+lean
+fill
+taking
+leaning
+filling
+standing

@@ -1,0 +1,10 @@
+stand
+touch
+looking
+look
+hold
+touching
+holding
+standing
+closing
+close

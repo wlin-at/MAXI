@@ -1,0 +1,6 @@
+sit
+make
+sitting
+closing
+making
+close

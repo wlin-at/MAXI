@@ -1,0 +1,8 @@
+riding
+climbing
+stand
+climb
+hold
+holding
+ride
+standing

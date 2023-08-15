@@ -1,0 +1,10 @@
+take
+eat
+use
+sit
+sitting
+talk
+taking
+using
+talking
+eating

@@ -1,0 +1,6 @@
+stand
+talk
+hold
+holding
+standing
+talking

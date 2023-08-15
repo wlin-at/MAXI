@@ -1,0 +1,10 @@
+eat
+hit
+stand
+sit
+sitting
+raising
+eating
+standing
+hitting
+raise

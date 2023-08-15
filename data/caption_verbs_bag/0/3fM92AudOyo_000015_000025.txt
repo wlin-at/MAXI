@@ -1,0 +1,4 @@
+stand
+scaffold
+scaffolding
+standing

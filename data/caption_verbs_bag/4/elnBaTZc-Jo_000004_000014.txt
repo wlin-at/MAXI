@@ -1,0 +1,8 @@
+point
+stand
+pointing
+make
+hold
+holding
+standing
+making

@@ -1,0 +1,8 @@
+stand
+sit
+sitting
+milk
+kneeling
+standing
+milking
+kneel

@@ -1,0 +1,8 @@
+fly
+flying
+stand
+hold
+parasailing
+holding
+standing
+parasaile

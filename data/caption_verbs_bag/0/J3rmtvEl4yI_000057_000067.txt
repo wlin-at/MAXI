@@ -1,0 +1,6 @@
+riding
+stand
+ride
+standing
+wear
+wearing

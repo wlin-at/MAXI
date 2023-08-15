@@ -1,0 +1,6 @@
+sink
+sinking
+hold
+holding
+wash
+washing

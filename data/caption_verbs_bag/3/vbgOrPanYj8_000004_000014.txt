@@ -1,0 +1,4 @@
+tie
+stand
+tying
+standing

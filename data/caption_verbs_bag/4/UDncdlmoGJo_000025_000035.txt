@@ -1,0 +1,8 @@
+stand
+hold
+holding
+shaving
+brushing
+standing
+brush
+shave

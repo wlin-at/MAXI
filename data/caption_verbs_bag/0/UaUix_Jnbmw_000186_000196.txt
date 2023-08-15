@@ -1,0 +1,8 @@
+covering
+riding
+stand
+hold
+holding
+cover
+ride
+standing

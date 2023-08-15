@@ -1,0 +1,10 @@
+covering
+stand
+talk
+hold
+holding
+cover
+standing
+talking
+wear
+wearing

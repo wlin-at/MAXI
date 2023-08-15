@@ -1,0 +1,12 @@
+dressing
+stand
+dress
+sit
+sitting
+shaking
+shake
+handing
+hand
+standing
+walking
+walk

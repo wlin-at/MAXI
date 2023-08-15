@@ -1,0 +1,4 @@
+stand
+brush
+brushing
+standing

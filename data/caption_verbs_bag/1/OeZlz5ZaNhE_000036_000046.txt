@@ -1,0 +1,8 @@
+drawing
+write
+stand
+sit
+sitting
+standing
+draw
+writing

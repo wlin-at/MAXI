@@ -1,0 +1,6 @@
+stand
+sit
+sitting
+travelling
+travel
+standing

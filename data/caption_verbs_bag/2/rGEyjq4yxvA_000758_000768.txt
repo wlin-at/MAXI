@@ -1,0 +1,8 @@
+stand
+sit
+talk
+sitting
+standing
+talking
+walking
+walk

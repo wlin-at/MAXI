@@ -1,0 +1,8 @@
+riding
+falling
+stand
+hanging
+hang
+ride
+standing
+fall

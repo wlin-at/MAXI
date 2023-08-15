@@ -1,0 +1,6 @@
+carrying
+carry
+climbing
+stand
+climb
+standing

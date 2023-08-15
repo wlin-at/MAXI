@@ -1,0 +1,6 @@
+wrestle
+stand
+running
+run
+standing
+wrestling

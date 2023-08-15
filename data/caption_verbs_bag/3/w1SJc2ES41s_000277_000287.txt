@@ -1,0 +1,6 @@
+posing
+stand
+sit
+sitting
+standing
+pose

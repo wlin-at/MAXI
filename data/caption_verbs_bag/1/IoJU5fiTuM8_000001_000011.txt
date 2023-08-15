@@ -1,0 +1,6 @@
+parking
+stand
+talk
+park
+standing
+talking

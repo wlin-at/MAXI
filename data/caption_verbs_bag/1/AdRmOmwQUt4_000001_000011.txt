@@ -1,0 +1,8 @@
+putting
+eat
+stand
+sit
+put
+sitting
+eating
+standing

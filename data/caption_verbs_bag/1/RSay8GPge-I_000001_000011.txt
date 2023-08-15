@@ -1,0 +1,8 @@
+riding
+stand
+talk
+ride
+standing
+talking
+walking
+walk

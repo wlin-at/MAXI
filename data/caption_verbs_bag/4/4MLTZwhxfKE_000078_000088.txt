@@ -1,0 +1,10 @@
+dotting
+stand
+stepping
+talk
+hold
+step
+holding
+standing
+talking
+dot

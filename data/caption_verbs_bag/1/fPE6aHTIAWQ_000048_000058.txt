@@ -1,0 +1,8 @@
+stand
+vend
+read
+standing
+vending
+reading
+walking
+walk

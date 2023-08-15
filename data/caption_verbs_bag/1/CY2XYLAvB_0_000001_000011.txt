@@ -1,0 +1,10 @@
+eat
+sit
+sitting
+talk
+hold
+holding
+eating
+talking
+stuff
+stuffing

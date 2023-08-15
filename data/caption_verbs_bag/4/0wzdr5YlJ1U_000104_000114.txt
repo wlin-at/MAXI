@@ -1,0 +1,6 @@
+stand
+hold
+shaking
+holding
+shake
+standing

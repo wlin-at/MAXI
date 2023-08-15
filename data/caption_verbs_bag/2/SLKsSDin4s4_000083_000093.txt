@@ -1,0 +1,6 @@
+stand
+sit
+sitting
+bouting
+boute
+standing

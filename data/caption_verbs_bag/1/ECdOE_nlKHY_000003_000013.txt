@@ -1,0 +1,6 @@
+sweep
+stand
+hold
+holding
+standing
+sweeping

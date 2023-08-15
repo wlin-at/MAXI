@@ -1,6 +1,6 @@
 # MAtch, eXpand and Improve: Unsupervised Finetuning for Zero-Shot Action Recognition with Language Knowledge (ICCV 2023)
 [ProjectPage](https://wlin-at.github.io/maxi)  
-Official implementation of ViTTA [[`arXiv`](https://arxiv.org/abs/2303.08914)]  
+Official implementation of MAXI [[`arXiv`](https://arxiv.org/abs/2303.08914)]  
 Author [HomePage](https://wlin-at.github.io/)  
 
 ## Installation 

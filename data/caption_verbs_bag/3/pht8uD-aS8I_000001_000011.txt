@@ -1,0 +1,4 @@
+stand
+dancing
+dance
+standing

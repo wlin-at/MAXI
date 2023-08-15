@@ -1,0 +1,10 @@
+stand
+applying
+sit
+sitting
+hold
+holding
+wash
+standing
+apply
+washing

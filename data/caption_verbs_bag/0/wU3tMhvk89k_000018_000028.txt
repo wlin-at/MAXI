@@ -1,0 +1,6 @@
+covering
+riding
+cover
+ride
+walking
+walk

@@ -1,0 +1,8 @@
+jump
+sit
+sitting
+hold
+holding
+read
+jumping
+reading

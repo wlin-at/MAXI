@@ -1,0 +1,12 @@
+perch
+covering
+fly
+flying
+riding
+stand
+perching
+cover
+ride
+standing
+walking
+walk

@@ -1,0 +1,4 @@
+holding
+sit
+sitting
+hold

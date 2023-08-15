@@ -1,0 +1,8 @@
+jump
+climbing
+hanging
+climb
+hang
+hold
+holding
+jumping

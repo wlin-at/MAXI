@@ -1,0 +1,6 @@
+make
+hold
+holding
+closing
+making
+close

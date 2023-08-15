@@ -1,0 +1,12 @@
+jump
+riding
+fly
+flying
+suspending
+walk
+hold
+holding
+ride
+jumping
+walking
+suspend

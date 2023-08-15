@@ -1,0 +1,8 @@
+brush
+sit
+make
+sitting
+lay
+brushing
+laying
+making

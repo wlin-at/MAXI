@@ -1,0 +1,4 @@
+holding
+talking
+talk
+hold

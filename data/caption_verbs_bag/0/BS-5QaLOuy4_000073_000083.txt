@@ -1,0 +1,8 @@
+write
+stand
+hold
+holding
+lean
+leaning
+writing
+standing

@@ -1,0 +1,4 @@
+stand
+laying
+lay
+standing

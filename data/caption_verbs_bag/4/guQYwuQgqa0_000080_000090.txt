@@ -1,0 +1,8 @@
+covering
+make
+talk
+hold
+holding
+cover
+talking
+making

@@ -1,0 +1,10 @@
+leaning
+stand
+hold
+pick
+holding
+lean
+bending
+picking
+bend
+standing

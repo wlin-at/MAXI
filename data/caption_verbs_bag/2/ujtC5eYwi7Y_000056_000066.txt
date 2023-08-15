@@ -1,0 +1,8 @@
+crossing
+tie
+tying
+sit
+stand
+sitting
+standing
+cross

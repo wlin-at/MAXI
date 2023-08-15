@@ -1,0 +1,14 @@
+scaffolding
+suspending
+flying
+stand
+sit
+fly
+riding
+sitting
+working
+scaffold
+ride
+standing
+suspend
+work

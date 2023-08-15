@@ -1,0 +1,10 @@
+fly
+flying
+riding
+stand
+travelling
+travel
+ride
+standing
+walking
+walk

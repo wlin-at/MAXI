@@ -1,0 +1,8 @@
+parking
+eat
+stand
+hold
+holding
+eating
+standing
+park

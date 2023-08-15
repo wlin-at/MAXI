@@ -1,0 +1,8 @@
+stand
+shoot
+hold
+holding
+saying
+shooting
+standing
+say

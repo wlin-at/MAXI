@@ -1,0 +1,12 @@
+suspending
+flying
+fly
+stand
+sit
+hanging
+riding
+sitting
+hang
+ride
+standing
+suspend

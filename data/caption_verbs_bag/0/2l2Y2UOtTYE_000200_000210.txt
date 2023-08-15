@@ -1,0 +1,10 @@
+climbing
+riding
+stand
+climb
+do
+hold
+holding
+ride
+standing
+doing

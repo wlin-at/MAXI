@@ -1,0 +1,10 @@
+riding
+playing
+stand
+sit
+play
+sitting
+talk
+ride
+standing
+talking

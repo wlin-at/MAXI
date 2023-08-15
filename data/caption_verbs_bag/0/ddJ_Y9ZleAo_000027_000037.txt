@@ -1,0 +1,6 @@
+facing
+climbing
+stand
+climb
+face
+standing

@@ -1,0 +1,8 @@
+sit
+talk
+hold
+sitting
+holding
+brushing
+talking
+brush

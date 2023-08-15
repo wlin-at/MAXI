@@ -1,0 +1,6 @@
+climbing
+stand
+hanging
+climb
+hang
+standing

@@ -1,0 +1,6 @@
+eat
+sit
+sitting
+talk
+eating
+talking

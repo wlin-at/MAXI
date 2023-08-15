@@ -1,0 +1,12 @@
+riding
+stand
+running
+talk
+run
+hold
+holding
+ride
+standing
+talking
+walking
+walk

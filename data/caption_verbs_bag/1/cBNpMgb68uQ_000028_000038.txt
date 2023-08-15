@@ -1,0 +1,10 @@
+talking
+stand
+talk
+hold
+checkering
+holding
+vend
+checker
+standing
+vending

@@ -1,0 +1,12 @@
+covering
+eat
+stand
+giving
+sit
+sitting
+hold
+give
+holding
+cover
+eating
+standing

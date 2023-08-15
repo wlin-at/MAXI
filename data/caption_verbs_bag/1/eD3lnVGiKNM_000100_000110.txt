@@ -1,0 +1,6 @@
+feed
+hold
+holding
+feeding
+wear
+wearing

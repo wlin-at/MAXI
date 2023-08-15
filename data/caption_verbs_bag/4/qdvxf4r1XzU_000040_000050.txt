@@ -1,0 +1,6 @@
+take
+make
+hold
+holding
+taking
+making

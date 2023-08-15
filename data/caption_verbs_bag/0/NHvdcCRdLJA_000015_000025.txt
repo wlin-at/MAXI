@@ -1,0 +1,10 @@
+climbing
+scaffolding
+riding
+stand
+climb
+working
+scaffold
+ride
+standing
+work

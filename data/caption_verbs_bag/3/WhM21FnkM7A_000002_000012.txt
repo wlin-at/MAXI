@@ -1,0 +1,4 @@
+bend
+stand
+bending
+standing

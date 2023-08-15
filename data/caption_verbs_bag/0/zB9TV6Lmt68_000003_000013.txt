@@ -1,0 +1,6 @@
+riding
+walk
+working
+ride
+walking
+work

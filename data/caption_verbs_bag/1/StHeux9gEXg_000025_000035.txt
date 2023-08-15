@@ -1,0 +1,8 @@
+stand
+hold
+holding
+brushing
+standing
+brush
+wear
+wearing

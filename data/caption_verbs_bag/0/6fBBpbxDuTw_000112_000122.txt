@@ -1,0 +1,6 @@
+facing
+climbing
+riding
+climb
+face
+ride

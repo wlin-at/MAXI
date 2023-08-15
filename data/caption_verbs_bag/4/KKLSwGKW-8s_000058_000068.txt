@@ -1,0 +1,6 @@
+touch
+stand
+hold
+touching
+holding
+standing

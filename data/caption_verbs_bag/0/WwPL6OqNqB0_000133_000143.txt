@@ -1,0 +1,4 @@
+stand
+attaching
+attach
+standing

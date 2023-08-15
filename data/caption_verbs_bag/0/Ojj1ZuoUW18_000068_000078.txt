@@ -1,0 +1,10 @@
+pull
+pulling
+stand
+sit
+sitting
+hold
+holding
+standing
+walking
+walk

@@ -1,0 +1,6 @@
+playing
+play
+hold
+holding
+throw
+throwing

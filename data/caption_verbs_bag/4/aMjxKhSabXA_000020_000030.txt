@@ -1,0 +1,10 @@
+covering
+stand
+touch
+hold
+touching
+holding
+cover
+standing
+closing
+close

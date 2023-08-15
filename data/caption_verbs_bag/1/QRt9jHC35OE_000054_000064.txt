@@ -1,0 +1,4 @@
+playing
+stand
+play
+standing

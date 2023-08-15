@@ -1,0 +1,8 @@
+jump
+riding
+jumping
+stand
+sit
+sitting
+ride
+standing

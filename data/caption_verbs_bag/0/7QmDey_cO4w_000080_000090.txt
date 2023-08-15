@@ -1,0 +1,8 @@
+riding
+fly
+flying
+sit
+sitting
+ride
+throw
+throwing

@@ -1,0 +1,8 @@
+sit
+sitting
+hold
+talk
+holding
+read
+talking
+reading

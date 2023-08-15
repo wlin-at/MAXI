@@ -1,0 +1,6 @@
+stand
+sit
+hanging
+sitting
+hang
+standing

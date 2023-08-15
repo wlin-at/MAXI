@@ -1,0 +1,6 @@
+climbing
+stand
+climb
+standing
+walking
+walk

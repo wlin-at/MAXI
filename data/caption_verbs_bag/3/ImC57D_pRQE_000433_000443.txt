@@ -1,0 +1,10 @@
+drying
+blowing
+stand
+sit
+blow
+hold
+sitting
+holding
+dry
+standing

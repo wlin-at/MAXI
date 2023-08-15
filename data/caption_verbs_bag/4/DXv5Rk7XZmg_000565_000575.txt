@@ -1,0 +1,10 @@
+eat
+sit
+sitting
+hold
+holding
+brushing
+eating
+stuff
+brush
+stuffing

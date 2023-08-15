@@ -1,0 +1,12 @@
+climbing
+be
+flying
+attaching
+fly
+climb
+stand
+attach
+hold
+holding
+being
+standing

@@ -1,0 +1,10 @@
+jump
+riding
+climbing
+flying
+stand
+fly
+climb
+jumping
+ride
+standing

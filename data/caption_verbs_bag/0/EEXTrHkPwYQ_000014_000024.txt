@@ -1,0 +1,4 @@
+stand
+walking
+walk
+standing

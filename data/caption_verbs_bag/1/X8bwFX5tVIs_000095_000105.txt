@@ -1,0 +1,6 @@
+sleep
+playing
+sit
+sleeping
+play
+sitting

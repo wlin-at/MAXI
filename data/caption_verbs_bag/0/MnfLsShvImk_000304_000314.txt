@@ -1,0 +1,8 @@
+cleaning
+covering
+stand
+clean
+sit
+sitting
+cover
+standing

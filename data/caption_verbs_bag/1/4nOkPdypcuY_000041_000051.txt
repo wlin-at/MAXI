@@ -1,0 +1,8 @@
+parking
+stand
+hold
+holding
+park
+standing
+driving
+drive

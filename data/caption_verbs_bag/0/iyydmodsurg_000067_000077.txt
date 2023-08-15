@@ -1,0 +1,10 @@
+climbing
+stand
+climb
+hanging
+hold
+hang
+holding
+paraglide
+standing
+paragliding

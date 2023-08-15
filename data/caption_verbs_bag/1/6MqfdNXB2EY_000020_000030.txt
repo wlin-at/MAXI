@@ -1,0 +1,12 @@
+sleep
+eat
+use
+sit
+sleeping
+sitting
+hold
+lay
+holding
+laying
+eating
+using

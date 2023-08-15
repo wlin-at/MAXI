@@ -1,0 +1,10 @@
+riding
+stand
+hold
+holding
+ride
+standing
+wear
+walking
+walk
+wearing

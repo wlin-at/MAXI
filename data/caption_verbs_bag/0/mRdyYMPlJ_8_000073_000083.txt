@@ -1,0 +1,10 @@
+stand
+sit
+sitting
+hold
+talk
+holding
+standing
+talking
+wear
+wearing

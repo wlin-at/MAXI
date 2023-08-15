@@ -1,0 +1,8 @@
+fly
+flying
+lifting
+stand
+riding
+ride
+standing
+lift

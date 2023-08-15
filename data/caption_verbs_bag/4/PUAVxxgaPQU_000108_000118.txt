@@ -1,0 +1,6 @@
+eat
+closing
+talk
+eating
+talking
+close

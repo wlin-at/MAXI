@@ -1,0 +1,10 @@
+riding
+flying
+fly
+attaching
+sit
+sitting
+attach
+hold
+holding
+ride

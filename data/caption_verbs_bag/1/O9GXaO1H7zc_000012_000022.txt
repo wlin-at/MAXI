@@ -1,0 +1,4 @@
+stand
+dress
+standing
+dressing

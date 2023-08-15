@@ -1,0 +1,6 @@
+use
+stand
+sit
+sitting
+using
+standing

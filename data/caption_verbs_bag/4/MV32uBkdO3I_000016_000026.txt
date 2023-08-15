@@ -1,0 +1,8 @@
+covering
+stand
+glow
+hold
+holding
+cover
+standing
+glowing

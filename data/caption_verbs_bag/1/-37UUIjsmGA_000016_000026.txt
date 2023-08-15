@@ -1,0 +1,6 @@
+stand
+hold
+holding
+standing
+throw
+throwing

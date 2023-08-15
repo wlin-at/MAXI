@@ -1,0 +1,10 @@
+stand
+sit
+sitting
+talk
+fill
+standing
+talking
+filling
+walking
+walk

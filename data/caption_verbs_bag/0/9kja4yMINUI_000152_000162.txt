@@ -1,0 +1,8 @@
+climbing
+be
+stand
+sit
+climb
+sitting
+being
+standing

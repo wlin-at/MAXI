@@ -1,0 +1,8 @@
+stand
+sit
+sitting
+lay
+hold
+holding
+laying
+standing

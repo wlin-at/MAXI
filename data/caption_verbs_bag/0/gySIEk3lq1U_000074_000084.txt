@@ -1,0 +1,8 @@
+color
+sliding
+climbing
+stand
+climb
+coloring
+slide
+standing

@@ -1,0 +1,10 @@
+playing
+sit
+play
+sitting
+hold
+holding
+talk
+smoke
+talking
+smoking

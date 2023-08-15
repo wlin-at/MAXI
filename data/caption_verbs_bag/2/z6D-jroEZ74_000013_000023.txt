@@ -1,0 +1,6 @@
+smile
+stand
+sit
+sitting
+smiling
+standing

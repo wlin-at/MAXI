@@ -1,0 +1,8 @@
+riding
+sit
+sitting
+talk
+hold
+holding
+ride
+talking

@@ -1,0 +1,8 @@
+stand
+sit
+sitting
+hold
+holding
+standing
+wear
+wearing

@@ -1,0 +1,10 @@
+climbing
+stand
+sit
+climb
+sitting
+talk
+working
+standing
+talking
+work

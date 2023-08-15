@@ -1,0 +1,4 @@
+stand
+take
+taking
+standing

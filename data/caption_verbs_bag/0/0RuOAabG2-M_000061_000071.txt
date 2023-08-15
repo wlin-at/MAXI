@@ -1,0 +1,6 @@
+riding
+sit
+sitting
+hold
+holding
+ride

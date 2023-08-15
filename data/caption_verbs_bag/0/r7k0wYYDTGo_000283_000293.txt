@@ -1,0 +1,8 @@
+facing
+climbing
+stand
+climb
+hanging
+hang
+face
+standing

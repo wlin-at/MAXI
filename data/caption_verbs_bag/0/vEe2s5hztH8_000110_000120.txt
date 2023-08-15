@@ -1,0 +1,8 @@
+carving
+riding
+climbing
+stand
+climb
+ride
+standing
+carve

@@ -1,0 +1,4 @@
+stand
+standing
+fly
+flying

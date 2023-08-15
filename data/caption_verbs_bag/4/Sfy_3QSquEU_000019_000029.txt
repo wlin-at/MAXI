@@ -1,0 +1,4 @@
+holding
+touch
+hold
+touching

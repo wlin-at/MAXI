@@ -1,0 +1,10 @@
+parking
+riding
+flying
+fly
+stand
+climbing
+climb
+ride
+standing
+park

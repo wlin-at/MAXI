@@ -1,0 +1,8 @@
+touch
+talk
+hold
+touching
+holding
+brushing
+talking
+brush

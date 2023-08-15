@@ -1,0 +1,8 @@
+stand
+watch
+sit
+sitting
+hold
+holding
+standing
+watching

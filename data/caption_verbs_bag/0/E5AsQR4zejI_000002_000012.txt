@@ -1,0 +1,8 @@
+rap
+riding
+stand
+sit
+sitting
+ride
+standing
+rapping

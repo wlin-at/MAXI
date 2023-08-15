@@ -1,0 +1,8 @@
+stand
+preparing
+hold
+holding
+standing
+pour
+prepare
+pouring

@@ -1,0 +1,6 @@
+stand
+hanging
+hang
+lighting
+standing
+light

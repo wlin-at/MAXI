@@ -1,0 +1,8 @@
+climbing
+falling
+stand
+climb
+standing
+wear
+fall
+wearing

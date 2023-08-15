@@ -1,0 +1,6 @@
+tie
+tying
+stand
+sit
+sitting
+standing

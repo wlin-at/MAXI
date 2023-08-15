@@ -1,0 +1,4 @@
+stand
+giving
+give
+standing

@@ -1,0 +1,12 @@
+playing
+stand
+talk
+hold
+play
+holding
+brushing
+standing
+talking
+brush
+wear
+wearing

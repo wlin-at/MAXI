@@ -1,0 +1,10 @@
+leaning
+facing
+climbing
+stand
+climb
+talk
+face
+lean
+standing
+talking

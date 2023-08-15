@@ -1,0 +1,8 @@
+take
+riding
+stand
+looking
+look
+ride
+standing
+taking

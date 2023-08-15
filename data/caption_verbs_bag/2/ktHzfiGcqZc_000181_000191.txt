@@ -1,0 +1,5 @@
+stand
+nation
+hold
+holding
+standing

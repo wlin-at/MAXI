@@ -1,0 +1,10 @@
+listening
+playing
+sit
+sitting
+hold
+play
+holding
+listen
+wear
+wearing

@@ -1,0 +1,12 @@
+stand
+sit
+dance
+watch
+sitting
+hold
+holding
+standing
+dancing
+wear
+watching
+wearing

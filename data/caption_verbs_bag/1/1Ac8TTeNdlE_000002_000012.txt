@@ -1,0 +1,10 @@
+playing
+stand
+sit
+play
+hold
+sitting
+holding
+lighting
+standing
+light

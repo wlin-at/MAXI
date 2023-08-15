@@ -1,0 +1,6 @@
+climbing
+sit
+climb
+sitting
+lay
+laying

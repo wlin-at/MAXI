@@ -1,0 +1,10 @@
+covering
+stand
+running
+run
+hold
+holding
+cover
+standing
+walking
+walk

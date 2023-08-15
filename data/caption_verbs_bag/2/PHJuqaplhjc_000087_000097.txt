@@ -1,0 +1,6 @@
+speaking
+stand
+sit
+sitting
+speak
+standing

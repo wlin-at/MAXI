@@ -1,0 +1,12 @@
+climbing
+stand
+fighting
+looking
+climb
+talk
+look
+fight
+holding
+hold
+standing
+talking

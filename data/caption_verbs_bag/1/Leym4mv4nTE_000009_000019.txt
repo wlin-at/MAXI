@@ -1,0 +1,12 @@
+brush
+stand
+looking
+make
+look
+hold
+holding
+brushing
+standing
+making
+wear
+wearing

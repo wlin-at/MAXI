@@ -1,0 +1,10 @@
+riding
+be
+stand
+lay
+laying
+being
+ride
+standing
+walking
+walk

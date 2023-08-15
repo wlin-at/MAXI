@@ -1,0 +1,8 @@
+climbing
+stand
+hanging
+climb
+hang
+wash
+standing
+washing

@@ -1,0 +1,10 @@
+covering
+riding
+climbing
+stand
+climb
+cover
+ride
+standing
+walking
+walk

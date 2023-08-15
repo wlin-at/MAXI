@@ -1,0 +1,4 @@
+stand
+looking
+look
+standing

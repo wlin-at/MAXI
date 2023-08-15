@@ -1,0 +1,8 @@
+stand
+do
+hold
+holding
+shaving
+standing
+doing
+shave

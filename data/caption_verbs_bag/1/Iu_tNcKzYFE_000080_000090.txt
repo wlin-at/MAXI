@@ -1,0 +1,8 @@
+drying
+stand
+sit
+sitting
+dry
+standing
+stuff
+stuffing

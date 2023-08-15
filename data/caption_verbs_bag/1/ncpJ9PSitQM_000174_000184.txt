@@ -1,0 +1,8 @@
+riding
+playing
+stand
+play
+hold
+holding
+ride
+standing

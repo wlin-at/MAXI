@@ -1,0 +1,8 @@
+cutting
+cut
+stand
+sit
+sitting
+hold
+holding
+standing

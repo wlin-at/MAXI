@@ -1,0 +1,8 @@
+wait
+stand
+looking
+look
+waiting
+standing
+walking
+walk

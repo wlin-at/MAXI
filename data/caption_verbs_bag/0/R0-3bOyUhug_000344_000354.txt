@@ -1,0 +1,6 @@
+attaching
+stand
+do
+attach
+standing
+doing

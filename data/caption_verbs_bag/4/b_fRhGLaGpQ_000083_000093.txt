@@ -1,0 +1,10 @@
+praying
+touch
+sit
+sitting
+hold
+touching
+holding
+talk
+talking
+pray

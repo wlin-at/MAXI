@@ -1,0 +1,14 @@
+riding
+playing
+stand
+sit
+play
+sitting
+cooking
+cook
+ride
+standing
+pour
+walking
+pouring
+walk

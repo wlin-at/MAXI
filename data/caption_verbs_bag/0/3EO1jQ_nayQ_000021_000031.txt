@@ -1,0 +1,10 @@
+carrying
+carry
+pull
+pulling
+climbing
+stand
+climb
+hold
+holding
+standing

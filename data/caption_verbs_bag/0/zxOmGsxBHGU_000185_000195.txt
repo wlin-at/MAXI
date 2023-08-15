@@ -1,0 +1,6 @@
+pull
+pulling
+stand
+hold
+holding
+standing

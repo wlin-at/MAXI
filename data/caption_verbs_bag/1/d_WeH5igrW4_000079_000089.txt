@@ -1,0 +1,8 @@
+write
+stand
+writing
+make
+hold
+holding
+standing
+making

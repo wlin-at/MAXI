@@ -1,0 +1,6 @@
+touch
+touching
+massage
+closing
+massaging
+close

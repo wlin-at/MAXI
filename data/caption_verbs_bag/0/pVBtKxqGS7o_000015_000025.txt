@@ -1,0 +1,8 @@
+covering
+climbing
+stand
+sit
+climb
+sitting
+cover
+standing

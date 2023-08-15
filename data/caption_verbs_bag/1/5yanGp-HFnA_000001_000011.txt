@@ -1,0 +1,4 @@
+talking
+stand
+talk
+standing

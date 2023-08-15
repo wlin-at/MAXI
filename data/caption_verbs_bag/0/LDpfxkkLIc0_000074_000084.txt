@@ -1,0 +1,6 @@
+pull
+climbing
+pulling
+stand
+climb
+standing

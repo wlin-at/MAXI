@@ -1,0 +1,8 @@
+climbing
+attaching
+sit
+climb
+stand
+sitting
+attach
+standing

@@ -1,0 +1,6 @@
+praying
+stand
+hold
+holding
+standing
+pray

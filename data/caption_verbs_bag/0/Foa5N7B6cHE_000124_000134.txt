@@ -1,0 +1,12 @@
+climbing
+riding
+reaching
+stand
+touch
+climb
+sit
+sitting
+touching
+ride
+standing
+reach

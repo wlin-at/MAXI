@@ -1,0 +1,10 @@
+pull
+pulling
+riding
+stand
+sit
+sitting
+hold
+holding
+ride
+standing

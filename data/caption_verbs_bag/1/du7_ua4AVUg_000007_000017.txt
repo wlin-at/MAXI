@@ -1,0 +1,8 @@
+drink
+stand
+sit
+sitting
+talk
+drinking
+standing
+talking

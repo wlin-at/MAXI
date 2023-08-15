@@ -1,0 +1,6 @@
+riding
+stand
+going
+ride
+standing
+go

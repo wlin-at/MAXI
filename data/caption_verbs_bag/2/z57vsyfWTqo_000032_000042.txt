@@ -1,0 +1,8 @@
+offer
+stand
+sit
+do
+sitting
+standing
+doing
+offering

@@ -1,0 +1,4 @@
+stand
+shake
+shaking
+standing

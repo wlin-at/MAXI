@@ -1,0 +1,6 @@
+gathering
+stand
+sit
+sitting
+standing
+gather

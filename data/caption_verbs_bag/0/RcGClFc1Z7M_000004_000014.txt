@@ -1,0 +1,4 @@
+stand
+hanging
+hang
+standing

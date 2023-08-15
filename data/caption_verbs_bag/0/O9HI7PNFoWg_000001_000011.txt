@@ -1,0 +1,6 @@
+climbing
+flying
+fly
+sit
+climb
+sitting

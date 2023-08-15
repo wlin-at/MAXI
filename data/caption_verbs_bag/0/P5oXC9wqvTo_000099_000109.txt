@@ -1,0 +1,6 @@
+riding
+flying
+fly
+sit
+sitting
+ride

@@ -1,0 +1,6 @@
+fly
+flying
+sit
+sitting
+read
+reading

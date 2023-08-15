@@ -1,0 +1,4 @@
+brush
+sit
+brushing
+sitting
