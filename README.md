@@ -3,6 +3,12 @@
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.08914)
 [![author](https://img.shields.io/badge/Author-Profile-f39f37?color=f39f37)](https://wlin-at.github.io/)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/match-expand-and-improve-unsupervised/zero-shot-action-recognition-on-kinetics)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-kinetics?p=match-expand-and-improve-unsupervised)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/match-expand-and-improve-unsupervised/zero-shot-action-recognition-on-charades-1)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-charades-1?p=match-expand-and-improve-unsupervised)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/match-expand-and-improve-unsupervised/zero-shot-action-recognition-on-hmdb51)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-hmdb51?p=match-expand-and-improve-unsupervised)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/match-expand-and-improve-unsupervised/zero-shot-action-recognition-on-ucf101)](https://paperswithcode.com/sota/zero-shot-action-recognition-on-ucf101?p=match-expand-and-improve-unsupervised)
+
+
 ## Installation 
 For installation and other package requirements, please follow the instructions detailed in [INSTALL.md](docs/INSTALL.md). 
 
