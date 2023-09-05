@@ -26,7 +26,7 @@ In `train.sh`, we specify the train file `datasets_splits/k400_splits/clip_match
 
 Run `train.sh` for unsupervised finetuning with multiple instance learning using combined text bag of BLIP verbs (data specified via `caption_bag_dir` in `train.sh`) and GPT3 verbs (data specified via `gpt3_bag_dir` in `train.sh`). Due to limitation of space, we only provide a small subset of the GPT3 verb bag and BLIP verb bag in the directory of `data`. The complete verb bags can be downloaded [here](https://files.icg.tugraz.at/d/3b7204bf164044b3aa27/).  
 
-The model is trained on 4x A6000 GPUs.  
+A model trained on Kinetics-400 with language sources of K400 dict, GPT3 verbs and BLIP verbs (corresponding to last two rows in Table 1) is provided [here](https://files.icg.tugraz.at/d/3b7204bf164044b3aa27/). The model is on 4x A6000 GPUs.   
 
 ```
 bash train.sh
